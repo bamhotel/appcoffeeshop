@@ -1,2 +1,0 @@
-# appcoffeeshop
-idunkno
